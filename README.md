@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/davidlampon/number-formatter.svg?branch=master)](https://travis-ci.org/davidlampon/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/davidlampon/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/davidlampon/number-formatter?branch=master)
+
 Number Formatter
 =========
 
